@@ -5,7 +5,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "SpheroRVR": "github:sphero-inc/sphero-sdk-microbit-makecode#v1.0.1"
     },
     "files": [
         "README.md",
